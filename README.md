@@ -9,5 +9,6 @@
 5. Dashboard Informasi dengan menggunakan template SBADMIN
 
 ## Login
-email : admin@gmail.com
-password : admin123
+
+* email : admin@gmail.com
+* password : admin123
